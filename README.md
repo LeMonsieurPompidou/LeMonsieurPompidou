@@ -1,5 +1,8 @@
 # Sam Rahnemayan
 
+[Resume](./Sam_Rahnemayan_CV.pdf) • [LinkedIn](https://www.linkedin.com/in/sam-rahnemayan) • [Portfolio](https://samrahnemayan.vercel.app/)
+
+
 **Robotics Engineer | EPFL MSc Robotics**
 
 Robotics Engineer specializing in rehabilitation robotics, autonomous systems, embedded electronics, control engineering, and biomechanical analysis.
@@ -28,7 +31,7 @@ The system automatically provisions and destroys temporary VPN gateways using In
 ---
 
 ### [Engineering Portfolio](https://samrahnemayan.vercel.app/)
-A detailed web portfolio presenting my work in robotics, embedded systems, rehabilitation technologies, control engineering, and software projects.
+Comprehensive portfolio showcasing robotics, rehabilitation technologies, embedded systems, control engineering, and software projects.
 
 ---
 
@@ -44,7 +47,7 @@ A detailed web portfolio presenting my work in robotics, embedded systems, rehab
 * MuJoCo • Webots • OpenSim • SCONE • Unity • EMG Signal Processing • Motion Capture
 
 ### Software & Infrastructure
-* Python • C • C++ • MATLAB • Terraform • React • TypeScript • SQLite
+* Python • C/C++ • MATLAB • Terraform • React • TypeScript • Git
 
 ---
 
